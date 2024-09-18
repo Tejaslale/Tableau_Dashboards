@@ -1,0 +1,251 @@
+Name,Email,Phone Number,Place,Favorite Pizza Type,Preferred Pizza Size,Preferred Pizza Crust,Favorite Pizza Toppings,Preferred Sauce Type,Spice Level (1-5),Dietary Restriction,How often do you eat pizza?,Preferred Day to Order Pizza,Do you prefer delivery or dine-in?,Favorite Pizza Brand,Do you customize your pizza?,What motivates your choice?,Would you recommend your favorite place?
+Bryan Doyle,deanna.vargas@example.com,98884349943,South Chadfort,Hawaiian,Extra Large,Gluten-Free Crust,Bacon,BBQ,2,Lactose Intolerant,Once a month,Weekends,Delivery,Others,Yes,Taste,No
+Matthew Bennett,michael.calhoun@example.com,76437296200,Port Tylerside,Margherita,Large,Gluten-Free Crust,Olives,Alfredo,3,Gluten-Free,Occasionally,Weekends,Delivery,Pizza Hut,Yes,Taste,No
+Lisa Nelson,robert.bishop@example.com,93269535798,Lake Tiffanyfort,Margherita,Medium,Thick Crust,Bacon,Alfredo,5,None,Rarely,Any day,Takeaway,Local Pizzeria,No,Price,Yes
+Melissa Chavez,cynthia.hancock@example.com,79044192414,Jamesland,Hawaiian,Extra Large,Gluten-Free Crust,Mushrooms,Alfredo,1,Vegan,Rarely,Weekdays,Dine-In,Domino's,No,Variety of Toppings,No
+Nicole Soto,cameron.ewing@example.com,84079798544,Goodmanbury,Hawaiian,Large,Gluten-Free Crust,Mushrooms,BBQ,2,Vegan,Once a week,Weekdays,Dine-In,Pizza Hut,Yes,Variety of Toppings,No
+Frank Norman,justin.smith@example.com,71347193380,Lake Richard,Hawaiian,Medium,Gluten-Free Crust,Sausage,Tomato,5,Gluten-Free,Rarely,Weekends,Delivery,Domino's,No,Delivery Speed,Yes
+Phillip Carter,alexander.hudson@example.com,88792192512,North Melanie,Pepperoni,Small,Thick Crust,Bacon,Pesto,5,None,Once a week,Weekends,Delivery,Pizza Hut,No,Variety of Toppings,No
+Wendy Rhodes,jordan.white@example.com,89258770023,Cynthiafurt,Margherita,Extra Large,Gluten-Free Crust,Bacon,BBQ,2,Vegan,Once a month,Weekends,Dine-In,Pizza Hut,No,Delivery Speed,No
+Mrs. Tara Bradley,jerry.young@example.com,76355575850,New Davidstad,BBQ Chicken,Small,Thick Crust,Mushrooms,Pesto,1,Lactose Intolerant,Rarely,Weekdays,Takeaway,Local Pizzeria,No,Price,Yes
+Steve Hernandez,michael.bridges@example.com,99812941263,Fordfurt,Margherita,Extra Large,Thin Crust,Sausage,Tomato,1,None,Rarely,Weekends,Takeaway,Local Pizzeria,No,Variety of Toppings,Yes
+Brittany Williams,joseph.lopez@example.com,76645687380,Julieville,Margherita,Small,Cheese-Stuffed Crust,Pineapple,Pesto,5,None,Rarely,Any day,Takeaway,Local Pizzeria,Yes,Taste,No
+Nicole Gray,randy.williams@example.com,77359659777,North Reneeberg,Margherita,Large,Gluten-Free Crust,Bacon,Alfredo,2,Vegan,Once a week,Any day,Dine-In,Others,No,Variety of Toppings,No
+Melissa Gibson,michael.dyer@example.com,95118857534,South Amyview,Margherita,Small,Thin Crust,Bacon,Alfredo,5,Lactose Intolerant,Occasionally,Any day,Delivery,Local Pizzeria,No,Offers/Discounts,No
+Dr. Claudia Walker,gary.beck@example.com,75129835485,Danielleside,BBQ Chicken,Large,Thick Crust,Olives,Pesto,4,Gluten-Free,Once a week,Weekdays,Dine-In,Others,No,Delivery Speed,No
+Patrick Ward,jamie.avery@example.com,77386476813,Lake Cindyland,BBQ Chicken,Small,Thick Crust,Bacon,BBQ,1,Lactose Intolerant,Once a week,Any day,Dine-In,Others,Yes,Taste,Yes
+Jose Kramer,stacy.guzman@example.com,75461890125,Williamschester,Hawaiian,Extra Large,Cheese-Stuffed Crust,Onions,BBQ,4,None,Rarely,Weekdays,Delivery,Domino's,No,Taste,No
+Jaime Stewart,denise.singh@example.com,83225022535,Isaacburgh,Margherita,Large,Thin Crust,Sausage,BBQ,1,None,Occasionally,Any day,Delivery,Local Pizzeria,Yes,Delivery Speed,Yes
+Jennifer Le,kathy.smith@example.com,73225025191,North James,BBQ Chicken,Small,Cheese-Stuffed Crust,Pepperoni,Pesto,3,Gluten-Free,Once a month,Weekends,Takeaway,Local Pizzeria,No,Taste,No
+Walter Stevenson,darren.king@example.com,78563997435,New Jayhaven,Pepperoni,Small,Cheese-Stuffed Crust,Olives,Alfredo,3,Lactose Intolerant,Once a week,Weekends,Dine-In,Domino's,No,Variety of Toppings,No
+Michael Brown MD,amy.mckinney@example.com,71178000774,Butlerfort,Hawaiian,Extra Large,Thick Crust,Pineapple,Pesto,4,Lactose Intolerant,Once a month,Any day,Dine-In,Local Pizzeria,No,Price,Yes
+Michael Trevino,dawn.nguyen@example.com,93864515677,Kimberlystad,Hawaiian,Large,Cheese-Stuffed Crust,Sausage,BBQ,5,Lactose Intolerant,Once a month,Any day,Takeaway,Local Pizzeria,No,Offers/Discounts,No
+Shawn Rogers,alexandra.allen@example.com,91752041443,New Meghan,Pepperoni,Large,Thick Crust,Sausage,Pesto,1,Lactose Intolerant,Occasionally,Weekends,Delivery,Local Pizzeria,No,Delivery Speed,Yes
+Mrs. Jennifer Ramirez,kara.castillo@example.com,91381422077,Robertshire,Margherita,Medium,Thick Crust,Bacon,Alfredo,4,Lactose Intolerant,Once a month,Weekdays,Takeaway,Others,No,Delivery Speed,No
+Pamela Hansen,erika.ward@example.com,99819649355,Port Toddhaven,Margherita,Small,Cheese-Stuffed Crust,Sausage,Tomato,4,Gluten-Free,Once a week,Weekends,Takeaway,Domino's,No,Taste,No
+Daniel Page,mr..christopher@example.com,99570177239,Lake Staceyton,Pepperoni,Small,Cheese-Stuffed Crust,Sausage,Tomato,2,Vegan,Occasionally,Any day,Delivery,Local Pizzeria,Yes,Delivery Speed,No
+Regina Wong,melissa.shepherd@example.com,85895916995,Elizabethchester,Pepperoni,Medium,Thick Crust,Onions,Pesto,3,None,Once a week,Any day,Delivery,Domino's,No,Price,Yes
+Kelly Frost,james.mayer@example.com,94867783795,South Latasha,Pepperoni,Small,Cheese-Stuffed Crust,Onions,BBQ,1,None,Once a week,Weekends,Delivery,Domino's,No,Price,Yes
+David Cook,david.moore@example.com,96965584014,New Ashley,Hawaiian,Small,Thin Crust,Sausage,Tomato,4,Lactose Intolerant,Once a week,Weekends,Delivery,Local Pizzeria,Yes,Delivery Speed,Yes
+Matthew Hart,sara.potter@example.com,74237894300,Davidstad,Veggie Supreme,Extra Large,Thin Crust,Sausage,Pesto,3,Vegan,Occasionally,Any day,Delivery,Domino's,Yes,Offers/Discounts,No
+Jacob Daniels,jennifer.collins@example.com,88215632694,Olsonfort,Veggie Supreme,Medium,Cheese-Stuffed Crust,Bacon,BBQ,1,None,Rarely,Weekdays,Takeaway,Others,No,Price,Yes
+Renee Soto,katie.deleon@example.com,96279409116,Garciaborough,Hawaiian,Extra Large,Thin Crust,Olives,Pesto,5,Gluten-Free,Once a month,Any day,Delivery,Local Pizzeria,Yes,Variety of Toppings,Yes
+Micheal Sherman,james.evans@example.com,83813785503,East Ronaldport,Hawaiian,Medium,Thin Crust,Sausage,Alfredo,5,Lactose Intolerant,Once a month,Any day,Takeaway,Domino's,No,Variety of Toppings,No
+Angela Phillips,danielle.davis@example.com,87470212918,North Duanemouth,BBQ Chicken,Medium,Cheese-Stuffed Crust,Sausage,Alfredo,1,Lactose Intolerant,Occasionally,Weekdays,Delivery,Local Pizzeria,Yes,Taste,No
+Amber Smith,mrs..jenna@example.com,76939080686,Lake Steven,Pepperoni,Large,Gluten-Free Crust,Pineapple,Pesto,1,Vegan,Once a week,Weekdays,Dine-In,Domino's,No,Taste,Yes
+Alyssa Wilson,shawn.ward@example.com,79495246861,West Theresamouth,Hawaiian,Large,Gluten-Free Crust,Onions,Tomato,1,None,Occasionally,Weekends,Delivery,Domino's,Yes,Price,Yes
+Amy Preston,martin.welch@example.com,79042200867,South Michelestad,Veggie Supreme,Extra Large,Cheese-Stuffed Crust,Onions,BBQ,4,None,Occasionally,Weekdays,Delivery,Pizza Hut,No,Price,Yes
+Stephanie Jones,matthew.ramirez@example.com,81614123940,Markport,Margherita,Large,Cheese-Stuffed Crust,Bacon,Alfredo,5,None,Once a month,Any day,Takeaway,Pizza Hut,No,Taste,Yes
+Tommy Price,timothy.stephens@example.com,88875174861,Foleyside,Hawaiian,Large,Thin Crust,Mushrooms,Pesto,2,Lactose Intolerant,Once a month,Weekends,Dine-In,Local Pizzeria,Yes,Delivery Speed,No
+Lindsey Rice,taylor.johnson@example.com,84674707870,Beckershire,BBQ Chicken,Small,Thick Crust,Olives,Alfredo,4,Gluten-Free,Occasionally,Weekends,Dine-In,Local Pizzeria,Yes,Offers/Discounts,Yes
+Susan Jackson,brian.johnston@example.com,97665347195,Reneemouth,Pepperoni,Medium,Thin Crust,Sausage,Pesto,2,Lactose Intolerant,Once a month,Weekends,Dine-In,Pizza Hut,No,Variety of Toppings,No
+Andrew Miller,karen.pratt@example.com,84551117365,West Davidberg,Hawaiian,Extra Large,Cheese-Stuffed Crust,Pineapple,Tomato,4,Vegan,Once a month,Any day,Takeaway,Others,Yes,Delivery Speed,Yes
+Wendy Rogers,nathan.edwards@example.com,73464559005,South Dan,BBQ Chicken,Extra Large,Thin Crust,Olives,Pesto,2,Vegan,Once a month,Weekdays,Dine-In,Pizza Hut,No,Offers/Discounts,No
+Brandon Henderson,victoria.rodriguez@example.com,77294938398,New Michaelfurt,Veggie Supreme,Extra Large,Gluten-Free Crust,Pepperoni,Alfredo,5,Lactose Intolerant,Occasionally,Any day,Takeaway,Local Pizzeria,Yes,Variety of Toppings,Yes
+Patrick Pineda,stephanie.moreno@example.com,84957284316,Jacobshire,Hawaiian,Large,Thick Crust,Olives,Pesto,4,Vegan,Once a month,Any day,Takeaway,Others,No,Offers/Discounts,Yes
+Shawn King,larry.mendez@example.com,85631895131,South Nicole,BBQ Chicken,Small,Thin Crust,Mushrooms,Pesto,2,None,Occasionally,Weekdays,Dine-In,Others,Yes,Taste,Yes
+Thomas Price,amy.pratt@example.com,75565788999,South Robert,Veggie Supreme,Extra Large,Thick Crust,Sausage,Pesto,5,None,Once a month,Any day,Delivery,Others,Yes,Offers/Discounts,No
+Barbara Garcia,jessica.munoz@example.com,79962809595,Kathrynmouth,Margherita,Large,Thin Crust,Onions,Pesto,4,None,Rarely,Weekends,Takeaway,Local Pizzeria,No,Delivery Speed,Yes
+John Coleman,trevor.leonard@example.com,95990895643,North Jennifer,Veggie Supreme,Large,Thin Crust,Olives,BBQ,2,Vegan,Occasionally,Weekends,Delivery,Pizza Hut,Yes,Offers/Discounts,No
+Michael Castillo,jordan.thomas@example.com,72197181332,Jenniferfort,Pepperoni,Small,Gluten-Free Crust,Onions,Pesto,1,Gluten-Free,Rarely,Weekends,Delivery,Local Pizzeria,No,Taste,Yes
+Joseph Jackson,vickie.wells@example.com,99222313473,Shanechester,Pepperoni,Extra Large,Thin Crust,Bacon,Tomato,3,Lactose Intolerant,Occasionally,Weekends,Takeaway,Others,No,Offers/Discounts,Yes
+Mrs. Erica Huang,angela.jenkins@example.com,96021505709,Port Nicolechester,Hawaiian,Large,Cheese-Stuffed Crust,Mushrooms,BBQ,3,None,Once a week,Any day,Dine-In,Pizza Hut,Yes,Price,Yes
+Timothy Gomez,nicole.wilson@example.com,86159775838,Sheltonport,Hawaiian,Medium,Thin Crust,Bacon,Tomato,5,Vegan,Rarely,Weekends,Takeaway,Local Pizzeria,Yes,Delivery Speed,No
+Dean Bell,linda.cook@example.com,74246456854,Port Tiffany,Margherita,Large,Gluten-Free Crust,Sausage,Tomato,4,Vegan,Rarely,Weekdays,Takeaway,Domino's,No,Offers/Discounts,No
+Brianna Carpenter,mrs..christine@example.com,95524802578,Port Emily,Pepperoni,Extra Large,Thick Crust,Bacon,Pesto,4,Vegan,Once a week,Any day,Takeaway,Domino's,No,Offers/Discounts,Yes
+Raymond Johnson,amy.riley@example.com,74546528261,North Rogerport,Hawaiian,Extra Large,Cheese-Stuffed Crust,Bacon,Alfredo,1,Vegan,Occasionally,Weekends,Takeaway,Domino's,Yes,Delivery Speed,Yes
+Candice Rodriguez,adam.barker@example.com,94269398101,Mcleanhaven,Margherita,Small,Cheese-Stuffed Crust,Pineapple,BBQ,4,Vegan,Once a month,Weekdays,Takeaway,Others,No,Taste,No
+Gabrielle James,larry.rodriguez@example.com,74442031818,Adamburgh,Margherita,Extra Large,Cheese-Stuffed Crust,Onions,Tomato,5,None,Once a week,Any day,Dine-In,Local Pizzeria,Yes,Taste,No
+Tracy Nielsen,tiffany.crawford@example.com,77916937272,Randybury,Margherita,Large,Thin Crust,Pepperoni,Alfredo,1,None,Once a month,Any day,Takeaway,Others,Yes,Offers/Discounts,No
+Tiffany Decker,james.ryan@example.com,99162717484,Williambury,Pepperoni,Large,Thin Crust,Pineapple,Pesto,1,Gluten-Free,Once a week,Weekends,Takeaway,Pizza Hut,No,Price,Yes
+Natalie Stevenson,nicole.meyer@example.com,87936778021,Josephchester,BBQ Chicken,Small,Thin Crust,Onions,BBQ,3,Lactose Intolerant,Once a month,Any day,Takeaway,Local Pizzeria,No,Variety of Toppings,No
+Tiffany Robbins,melissa.bailey@example.com,71661333648,Lake Lisa,Margherita,Extra Large,Thick Crust,Mushrooms,BBQ,4,None,Rarely,Weekdays,Takeaway,Local Pizzeria,No,Offers/Discounts,Yes
+Julie Case,meagan.lewis@example.com,95125158720,Churchchester,Pepperoni,Small,Thin Crust,Pepperoni,Tomato,5,Lactose Intolerant,Rarely,Weekends,Delivery,Local Pizzeria,No,Delivery Speed,Yes
+Joshua Taylor,harry.fuller@example.com,79296092181,Robinsonshire,Pepperoni,Extra Large,Thick Crust,Mushrooms,Tomato,2,Vegan,Rarely,Weekends,Takeaway,Local Pizzeria,Yes,Offers/Discounts,Yes
+Kelli Lynch,austin.barker@example.com,93909452347,North Theresa,Pepperoni,Medium,Thick Crust,Sausage,BBQ,5,Gluten-Free,Once a week,Any day,Dine-In,Local Pizzeria,Yes,Delivery Speed,Yes
+Thomas Stuart,tammy.alexander@example.com,79162176696,Port Sonya,Hawaiian,Small,Gluten-Free Crust,Onions,Pesto,5,Vegan,Occasionally,Weekdays,Takeaway,Others,No,Offers/Discounts,No
+Sara Griffin,david.love@example.com,98214461723,South Toni,Veggie Supreme,Small,Cheese-Stuffed Crust,Pepperoni,BBQ,5,Gluten-Free,Occasionally,Any day,Delivery,Others,No,Taste,Yes
+Christopher Roberts,lindsey.sullivan@example.com,81130836818,Lake Randyville,Margherita,Large,Cheese-Stuffed Crust,Onions,Alfredo,2,Lactose Intolerant,Once a month,Weekdays,Delivery,Domino's,Yes,Taste,Yes
+Monica West,melissa.peck@example.com,85786815169,Grahamberg,Hawaiian,Small,Thick Crust,Sausage,Pesto,4,Vegan,Once a month,Weekends,Delivery,Domino's,No,Offers/Discounts,Yes
+Veronica Richard,jermaine.williams@example.com,86555421178,Scotthaven,BBQ Chicken,Medium,Cheese-Stuffed Crust,Olives,Alfredo,4,Lactose Intolerant,Once a week,Weekends,Delivery,Local Pizzeria,Yes,Variety of Toppings,No
+Sarah Smith,robert.mendoza@example.com,85871112700,Owensborough,BBQ Chicken,Extra Large,Thick Crust,Sausage,Tomato,4,Gluten-Free,Once a week,Any day,Dine-In,Others,Yes,Offers/Discounts,No
+Randall Davenport,tina.richardson@example.com,89111110302,North Heather,BBQ Chicken,Medium,Thick Crust,Pineapple,BBQ,5,None,Occasionally,Any day,Dine-In,Local Pizzeria,Yes,Delivery Speed,Yes
+Harry Pollard,karl.lee@example.com,99541150618,Adamsside,Hawaiian,Extra Large,Thick Crust,Bacon,Tomato,5,Lactose Intolerant,Once a week,Any day,Dine-In,Others,No,Offers/Discounts,No
+Ian Davies MD,christina.price@example.com,74364170241,West Bruceport,BBQ Chicken,Small,Gluten-Free Crust,Pepperoni,Tomato,4,Vegan,Once a month,Any day,Delivery,Others,No,Delivery Speed,No
+Brittany Hale,nicholas.ramirez@example.com,84885599746,Millerton,Pepperoni,Extra Large,Thick Crust,Olives,Alfredo,5,None,Occasionally,Weekends,Dine-In,Others,Yes,Price,Yes
+Anna Cook,david.king@example.com,76818309874,Leahmouth,Hawaiian,Medium,Thin Crust,Olives,Alfredo,3,Gluten-Free,Once a month,Any day,Takeaway,Domino's,Yes,Offers/Discounts,No
+Mr. Shawn Williams,dennis.alexander@example.com,88810932110,North Jenniferville,BBQ Chicken,Large,Thin Crust,Sausage,BBQ,5,Gluten-Free,Occasionally,Any day,Dine-In,Local Pizzeria,Yes,Taste,No
+Brittany Johnson,andrew.wilkinson@example.com,73183444742,West Marcus,BBQ Chicken,Medium,Cheese-Stuffed Crust,Olives,BBQ,2,Vegan,Once a month,Weekends,Dine-In,Local Pizzeria,No,Offers/Discounts,No
+Caleb Glass,lisa.young@example.com,97728110966,Hugheston,Hawaiian,Medium,Thin Crust,Pineapple,Alfredo,3,None,Once a week,Weekdays,Dine-In,Pizza Hut,No,Delivery Speed,Yes
+Raymond Spencer,kimberly.thompson@example.com,98875464946,Anthonyshire,Veggie Supreme,Extra Large,Cheese-Stuffed Crust,Pepperoni,Pesto,2,Gluten-Free,Once a month,Weekdays,Dine-In,Pizza Hut,Yes,Variety of Toppings,Yes
+Thomas Francis,lisa.bowen@example.com,99945878682,West Michaelmouth,Pepperoni,Medium,Cheese-Stuffed Crust,Mushrooms,Alfredo,4,Lactose Intolerant,Once a month,Any day,Takeaway,Pizza Hut,Yes,Variety of Toppings,Yes
+Brian Reese,victoria.hudson@example.com,87471789839,Annabury,Pepperoni,Extra Large,Gluten-Free Crust,Bacon,BBQ,2,Vegan,Once a month,Weekdays,Takeaway,Pizza Hut,Yes,Price,No
+Michael Donovan,christopher.sawyer@example.com,99937703536,South Kimberlyfurt,BBQ Chicken,Small,Thin Crust,Pineapple,Tomato,3,Lactose Intolerant,Once a week,Weekends,Delivery,Pizza Hut,No,Taste,Yes
+Cole Ferguson,cynthia.murray@example.com,76987477342,Jimenezfurt,BBQ Chicken,Small,Thick Crust,Onions,Alfredo,3,None,Once a week,Any day,Takeaway,Pizza Hut,Yes,Offers/Discounts,No
+Richard Roberts,daniel.williams@example.com,78188732927,Port Emilyside,Margherita,Small,Cheese-Stuffed Crust,Pepperoni,Pesto,2,Lactose Intolerant,Rarely,Weekends,Dine-In,Domino's,Yes,Offers/Discounts,Yes
+Amanda Hernandez,david.macdonald@example.com,89010932158,East Gregoryside,Pepperoni,Medium,Gluten-Free Crust,Sausage,Tomato,4,Gluten-Free,Once a month,Weekdays,Dine-In,Local Pizzeria,Yes,Taste,No
+Amy Hayes,nathaniel.ross@example.com,86566928335,New Phillipport,Hawaiian,Large,Thin Crust,Olives,Alfredo,2,Gluten-Free,Once a week,Any day,Delivery,Domino's,Yes,Offers/Discounts,Yes
+Annette Jacobs,ernest.little@example.com,81977915478,East Mary,Hawaiian,Small,Thick Crust,Pepperoni,BBQ,3,Lactose Intolerant,Once a month,Weekdays,Dine-In,Local Pizzeria,Yes,Offers/Discounts,Yes
+Rebecca Dunn,john.graham@example.com,94285392806,Lauraview,Margherita,Extra Large,Gluten-Free Crust,Olives,BBQ,1,None,Once a month,Weekdays,Delivery,Domino's,No,Taste,Yes
+Angela Brewer,miss.nancy@example.com,99966431503,Stewartfort,Veggie Supreme,Extra Large,Gluten-Free Crust,Onions,Pesto,1,Vegan,Once a month,Any day,Takeaway,Others,No,Price,Yes
+Jimmy Robertson,michael.salazar@example.com,99581375039,New Benjaminshire,Veggie Supreme,Small,Thin Crust,Olives,BBQ,1,None,Occasionally,Weekends,Takeaway,Pizza Hut,Yes,Delivery Speed,Yes
+Steven Potts,jeffrey.taylor@example.com,85122636745,Westmouth,Pepperoni,Large,Thick Crust,Mushrooms,Tomato,4,Gluten-Free,Once a week,Weekdays,Takeaway,Others,Yes,Price,No
+Alan Lopez,dustin.marquez@example.com,95497857556,East Dianaland,BBQ Chicken,Medium,Cheese-Stuffed Crust,Bacon,BBQ,3,Lactose Intolerant,Rarely,Weekends,Delivery,Domino's,Yes,Taste,No
+Monica Walsh,karen.reynolds@example.com,85927300797,Brianfurt,Veggie Supreme,Small,Cheese-Stuffed Crust,Pineapple,Alfredo,4,None,Occasionally,Weekends,Delivery,Pizza Hut,Yes,Price,No
+John Davis,luis.campbell@example.com,91141193988,Liushire,BBQ Chicken,Large,Cheese-Stuffed Crust,Pepperoni,Alfredo,4,Lactose Intolerant,Rarely,Weekends,Dine-In,Others,No,Delivery Speed,Yes
+Tammy Brady,bradley.stewart@example.com,92367630660,Port Meredithburgh,Margherita,Small,Gluten-Free Crust,Onions,Tomato,3,None,Once a month,Any day,Takeaway,Others,Yes,Variety of Toppings,Yes
+William Graves,lisa.whitehead@example.com,98012496678,North Kellyview,BBQ Chicken,Extra Large,Gluten-Free Crust,Sausage,Pesto,4,Lactose Intolerant,Once a month,Any day,Delivery,Domino's,No,Offers/Discounts,No
+Richard Burns,david.klein@example.com,96003148387,Port Amyville,Veggie Supreme,Large,Cheese-Stuffed Crust,Pineapple,Alfredo,5,Lactose Intolerant,Rarely,Any day,Takeaway,Pizza Hut,No,Price,Yes
+Erika Hatfield,jared.miller@example.com,98035223787,Parkerstad,BBQ Chicken,Large,Cheese-Stuffed Crust,Mushrooms,Alfredo,2,Gluten-Free,Occasionally,Weekends,Dine-In,Others,Yes,Taste,Yes
+Jason White,donna.taylor@example.com,78090021370,Jasminefurt,BBQ Chicken,Extra Large,Thick Crust,Mushrooms,Tomato,1,Gluten-Free,Rarely,Weekends,Delivery,Domino's,Yes,Price,No
+Nicole Glover,wanda.garcia@example.com,76296236766,Samanthachester,Pepperoni,Medium,Thick Crust,Mushrooms,BBQ,1,Gluten-Free,Once a week,Weekdays,Takeaway,Domino's,No,Price,No
+Jamie Gutierrez,diana.gutierrez@example.com,82279243670,North Brittanyfurt,Pepperoni,Large,Thick Crust,Olives,Pesto,5,Gluten-Free,Once a week,Weekdays,Takeaway,Domino's,No,Delivery Speed,Yes
+Mary Robinson,cory.clark@example.com,82924020600,Kathleenhaven,Veggie Supreme,Small,Cheese-Stuffed Crust,Bacon,Tomato,2,Lactose Intolerant,Once a month,Weekdays,Takeaway,Domino's,No,Variety of Toppings,Yes
+Gary Long,mark.holmes@example.com,86927083265,Davidview,Pepperoni,Medium,Cheese-Stuffed Crust,Pineapple,Alfredo,1,Lactose Intolerant,Once a week,Weekdays,Takeaway,Others,Yes,Taste,No
+Evelyn Meadows,tyler.rivers@example.com,75844174696,South Jacquelineland,Hawaiian,Medium,Gluten-Free Crust,Mushrooms,Tomato,4,Gluten-Free,Occasionally,Weekdays,Delivery,Pizza Hut,Yes,Delivery Speed,No
+Katelyn Ortiz,michael.browning@example.com,84127765803,Jamestown,Margherita,Extra Large,Thick Crust,Mushrooms,Pesto,5,Vegan,Rarely,Weekends,Delivery,Pizza Hut,No,Delivery Speed,Yes
+Tina Houston,monica.martinez@example.com,92259477457,South Kimberly,Margherita,Medium,Gluten-Free Crust,Olives,Alfredo,2,None,Once a month,Weekdays,Takeaway,Others,No,Taste,No
+Allison Dennis,carla.torres@example.com,76934606125,Piercemouth,Hawaiian,Small,Cheese-Stuffed Crust,Pineapple,Pesto,5,Gluten-Free,Occasionally,Weekends,Dine-In,Local Pizzeria,Yes,Price,No
+Glenn Bennett,cheryl.walker@example.com,77387834308,Montoyatown,Veggie Supreme,Large,Thin Crust,Mushrooms,Pesto,3,None,Once a week,Weekends,Dine-In,Domino's,No,Taste,No
+Dominic Bowen,kelly.lee@example.com,97686336172,Lake Christineside,Pepperoni,Large,Gluten-Free Crust,Sausage,Tomato,3,Lactose Intolerant,Rarely,Any day,Dine-In,Others,Yes,Delivery Speed,No
+Matthew Jones,jonathan.reilly@example.com,78182823737,Richardfurt,BBQ Chicken,Small,Cheese-Stuffed Crust,Pepperoni,Pesto,2,Gluten-Free,Occasionally,Weekdays,Dine-In,Pizza Hut,No,Delivery Speed,Yes
+Christina Watts,shannon.matthews@example.com,91666007100,New Danny,Veggie Supreme,Large,Thick Crust,Mushrooms,Tomato,5,None,Once a month,Weekends,Dine-In,Domino's,No,Offers/Discounts,Yes
+Michael Hicks,alyssa.hood@example.com,82325326759,New Courtneyview,Veggie Supreme,Medium,Thick Crust,Olives,BBQ,4,Lactose Intolerant,Occasionally,Weekends,Takeaway,Local Pizzeria,No,Offers/Discounts,No
+Mark Weber,daniel.castro@example.com,73838155575,North Angelaton,Veggie Supreme,Large,Thin Crust,Pepperoni,BBQ,3,None,Once a month,Weekdays,Takeaway,Domino's,No,Variety of Toppings,No
+Sherri Owens,paul.cunningham@example.com,82791323043,Fowlerbury,Veggie Supreme,Extra Large,Thin Crust,Pineapple,Tomato,3,Gluten-Free,Occasionally,Weekdays,Dine-In,Local Pizzeria,No,Price,Yes
+David Sanders,rodney.english@example.com,71172300965,Kimland,Margherita,Medium,Thin Crust,Bacon,Tomato,5,Vegan,Occasionally,Weekends,Takeaway,Local Pizzeria,Yes,Variety of Toppings,No
+Debbie Gonzalez,ashley.crawford@example.com,99522034027,Williamsfurt,Margherita,Medium,Thick Crust,Onions,Pesto,5,Vegan,Once a week,Any day,Takeaway,Pizza Hut,Yes,Price,No
+Katelyn Williams,elizabeth.todd@example.com,88967119226,Brewerhaven,BBQ Chicken,Large,Thick Crust,Onions,BBQ,3,None,Occasionally,Weekends,Takeaway,Pizza Hut,Yes,Offers/Discounts,Yes
+Linda Bowers,brian.taylor@example.com,97674171529,New Staceyfort,Hawaiian,Medium,Gluten-Free Crust,Olives,BBQ,2,None,Once a month,Weekends,Takeaway,Local Pizzeria,No,Offers/Discounts,Yes
+Nicole Gilmore,sherri.powell@example.com,99223903847,Lake Katherineview,Margherita,Medium,Thick Crust,Pepperoni,Pesto,3,Gluten-Free,Rarely,Any day,Takeaway,Domino's,Yes,Offers/Discounts,No
+Arthur Phillips,nancy.campbell@example.com,88148545311,West George,Hawaiian,Extra Large,Gluten-Free Crust,Pineapple,BBQ,5,Lactose Intolerant,Once a month,Weekdays,Dine-In,Others,Yes,Delivery Speed,No
+Kelly Barajas,phillip.nelson@example.com,86164195951,Brookeport,Veggie Supreme,Extra Large,Thin Crust,Olives,BBQ,3,None,Once a week,Weekends,Delivery,Others,No,Price,Yes
+Stephen Arnold,jose.mckay@example.com,72897460248,Brendaborough,Hawaiian,Large,Cheese-Stuffed Crust,Pineapple,Alfredo,4,Gluten-Free,Once a month,Weekdays,Delivery,Pizza Hut,No,Delivery Speed,Yes
+Tim Reynolds,sheryl.crawford@example.com,78199825011,South Tammytown,Pepperoni,Large,Gluten-Free Crust,Pineapple,Tomato,2,None,Once a month,Weekdays,Delivery,Domino's,Yes,Offers/Discounts,No
+Micheal Williamson,jessica.harper@example.com,93531267227,Lake Madison,BBQ Chicken,Medium,Thick Crust,Sausage,Tomato,2,Lactose Intolerant,Occasionally,Weekdays,Dine-In,Pizza Hut,No,Offers/Discounts,Yes
+Jimmy Perez,heather.williams@example.com,71463226294,Lake Peter,Pepperoni,Small,Thick Crust,Pineapple,BBQ,2,Gluten-Free,Occasionally,Weekdays,Takeaway,Domino's,No,Variety of Toppings,Yes
+James Barr,debra.clark@example.com,96495780076,Pattersonville,Veggie Supreme,Medium,Thin Crust,Pepperoni,Alfredo,3,Vegan,Once a week,Weekdays,Delivery,Local Pizzeria,No,Variety of Toppings,No
+Kevin Price,veronica.hopkins@example.com,74598617531,East Emilyside,Veggie Supreme,Large,Thick Crust,Pineapple,BBQ,2,Lactose Intolerant,Once a week,Weekdays,Dine-In,Domino's,Yes,Taste,No
+Tina Avery,laura.cox@example.com,76308992842,West Jaclyn,Pepperoni,Extra Large,Thin Crust,Mushrooms,Alfredo,4,Vegan,Once a month,Any day,Dine-In,Domino's,No,Delivery Speed,No
+Jordan Thomas,sarah.hall@example.com,83747865072,Allenside,Veggie Supreme,Extra Large,Thick Crust,Sausage,Tomato,2,None,Once a week,Weekdays,Dine-In,Local Pizzeria,No,Taste,No
+Timothy Phillips,melanie.woods@example.com,88067460855,Jasminchester,Hawaiian,Extra Large,Gluten-Free Crust,Pepperoni,BBQ,5,None,Once a week,Any day,Dine-In,Pizza Hut,No,Price,No
+Stephanie Smith,stephanie.perez@example.com,85856662579,West Patricktown,Pepperoni,Large,Gluten-Free Crust,Pepperoni,Alfredo,2,Lactose Intolerant,Occasionally,Any day,Dine-In,Pizza Hut,Yes,Price,No
+Randy Murphy,billy.harris@example.com,88034133647,Carrieberg,Margherita,Large,Cheese-Stuffed Crust,Onions,BBQ,3,Vegan,Once a week,Weekdays,Dine-In,Others,Yes,Delivery Speed,No
+Diana Johnson,rebecca.harrington@example.com,72748140270,Lake Amanda,Pepperoni,Small,Cheese-Stuffed Crust,Onions,BBQ,3,Vegan,Rarely,Weekdays,Delivery,Others,Yes,Price,No
+Betty Hammond,kimberly.chung@example.com,97400569919,West Jaredborough,Margherita,Small,Thin Crust,Mushrooms,Tomato,5,None,Once a month,Any day,Dine-In,Pizza Hut,No,Delivery Speed,Yes
+Anne Jarvis,jennifer.richardson@example.com,88548546304,Cooperfurt,Hawaiian,Medium,Gluten-Free Crust,Onions,Pesto,1,Lactose Intolerant,Rarely,Weekends,Takeaway,Local Pizzeria,Yes,Variety of Toppings,Yes
+Anthony Mason,angela.stephenson@example.com,71888312549,Michaelborough,Veggie Supreme,Large,Cheese-Stuffed Crust,Onions,Pesto,3,None,Rarely,Weekends,Delivery,Pizza Hut,No,Taste,Yes
+Loretta Scott,kristen.browning@example.com,98744199989,Port Josephville,Veggie Supreme,Large,Thick Crust,Bacon,Alfredo,2,Gluten-Free,Once a month,Weekends,Delivery,Pizza Hut,No,Price,No
+Michael Bennett,george.johnson@example.com,92436211220,Smithshire,Margherita,Small,Thick Crust,Onions,BBQ,1,Gluten-Free,Occasionally,Any day,Takeaway,Local Pizzeria,Yes,Variety of Toppings,No
+Karen Hopkins,lindsey.powers@example.com,82420022191,Simmonschester,BBQ Chicken,Small,Thin Crust,Bacon,BBQ,2,Gluten-Free,Once a week,Weekends,Delivery,Pizza Hut,Yes,Offers/Discounts,Yes
+Chad Vargas,kristen.johnson@example.com,97509169905,New Robertville,Hawaiian,Extra Large,Cheese-Stuffed Crust,Bacon,Pesto,3,Gluten-Free,Once a month,Weekends,Delivery,Local Pizzeria,No,Variety of Toppings,Yes
+Rachel Welch,sheena.david@example.com,88577246254,Michaelshire,Pepperoni,Extra Large,Thin Crust,Olives,BBQ,3,Gluten-Free,Once a month,Weekdays,Takeaway,Pizza Hut,Yes,Offers/Discounts,No
+Mark Vargas,jose.martin@example.com,87902097529,Patriciashire,Pepperoni,Large,Thin Crust,Mushrooms,BBQ,4,None,Once a week,Any day,Dine-In,Others,Yes,Offers/Discounts,No
+Kenneth Jones,dr..donald@example.com,82293884793,North Danielle,Veggie Supreme,Large,Thick Crust,Sausage,Alfredo,4,Gluten-Free,Rarely,Any day,Delivery,Pizza Hut,Yes,Delivery Speed,No
+Thomas Adams,george.salas@example.com,77087424730,Rochahaven,Margherita,Large,Gluten-Free Crust,Bacon,Tomato,5,Lactose Intolerant,Rarely,Weekdays,Takeaway,Local Pizzeria,No,Price,No
+Emily Huff,amy.reeves@example.com,99063364285,West Ericview,Hawaiian,Extra Large,Gluten-Free Crust,Olives,BBQ,2,Lactose Intolerant,Once a week,Weekends,Delivery,Domino's,No,Variety of Toppings,No
+Andrew Stark,joshua.dixon@example.com,85886867547,South Lorifurt,Veggie Supreme,Medium,Thin Crust,Pineapple,Tomato,3,None,Occasionally,Any day,Takeaway,Local Pizzeria,No,Taste,No
+Donna Martinez,brittney.yoder@example.com,87436877449,Josephmouth,Pepperoni,Small,Cheese-Stuffed Crust,Mushrooms,Pesto,4,None,Once a week,Any day,Dine-In,Pizza Hut,No,Taste,Yes
+Brandon Williams,michael.morris@example.com,83826213478,East Kevinland,Margherita,Large,Thick Crust,Pepperoni,Tomato,4,None,Rarely,Weekdays,Delivery,Others,No,Delivery Speed,No
+Stephen Rogers,madeline.esparza@example.com,82703974161,Thomasshire,Margherita,Medium,Thin Crust,Sausage,Alfredo,1,None,Once a week,Weekends,Delivery,Pizza Hut,Yes,Variety of Toppings,Yes
+Michael Dixon,tamara.hall@example.com,76734400656,East Kimberly,Margherita,Medium,Cheese-Stuffed Crust,Pineapple,Tomato,4,None,Rarely,Any day,Delivery,Local Pizzeria,Yes,Offers/Discounts,No
+Alice Shannon PhD,anna.becker@example.com,72372939329,South Brendaberg,BBQ Chicken,Medium,Thick Crust,Bacon,Tomato,4,None,Occasionally,Any day,Dine-In,Local Pizzeria,No,Price,Yes
+Jennifer Mendez,timothy.jones@example.com,94879298611,Lake John,Margherita,Medium,Thick Crust,Bacon,Tomato,3,Lactose Intolerant,Occasionally,Any day,Delivery,Others,No,Variety of Toppings,No
+Edward Frye,randall.bullock@example.com,93751662613,Port Eric,Hawaiian,Extra Large,Thick Crust,Bacon,BBQ,4,Vegan,Once a month,Weekdays,Takeaway,Pizza Hut,No,Delivery Speed,No
+Scott Hayes,thomas.mathis@example.com,87494919106,Port Jose,BBQ Chicken,Large,Gluten-Free Crust,Mushrooms,Alfredo,2,Vegan,Rarely,Weekdays,Dine-In,Local Pizzeria,No,Price,No
+Kimberly Hall,christopher.richardson@example.com,76085759961,Smithtown,Veggie Supreme,Extra Large,Gluten-Free Crust,Onions,Alfredo,2,None,Rarely,Weekdays,Takeaway,Others,No,Variety of Toppings,Yes
+Kyle Wright,krystal.roberts@example.com,73068708133,North Douglasbury,Pepperoni,Large,Gluten-Free Crust,Bacon,Alfredo,1,None,Once a week,Weekends,Dine-In,Local Pizzeria,No,Taste,Yes
+Lance Palmer,ryan.moore@example.com,83689248421,Jilltown,Hawaiian,Large,Cheese-Stuffed Crust,Pineapple,Tomato,2,Gluten-Free,Occasionally,Any day,Delivery,Others,Yes,Offers/Discounts,No
+Allison Gutierrez,kathleen.hoffman@example.com,73576787950,New Ethanburgh,Pepperoni,Small,Cheese-Stuffed Crust,Mushrooms,Pesto,4,Vegan,Rarely,Weekdays,Delivery,Domino's,No,Price,Yes
+Christina Wright,briana.pruitt@example.com,82084922665,Billyfurt,Margherita,Extra Large,Thick Crust,Bacon,Tomato,1,None,Once a month,Any day,Takeaway,Local Pizzeria,Yes,Taste,Yes
+Lisa Roach,laura.torres@example.com,71332047978,Bateshaven,Veggie Supreme,Small,Thick Crust,Bacon,Pesto,5,Vegan,Occasionally,Any day,Delivery,Others,No,Price,Yes
+Michael Wilkerson,reginald.lynch@example.com,85740111724,Kennedyview,Veggie Supreme,Small,Cheese-Stuffed Crust,Olives,BBQ,4,Vegan,Rarely,Weekends,Delivery,Pizza Hut,No,Taste,No
+Nicole Pruitt,jennifer.wilson@example.com,74994343563,Port Jonathan,Margherita,Medium,Cheese-Stuffed Crust,Onions,Tomato,5,Lactose Intolerant,Once a week,Any day,Takeaway,Domino's,No,Price,No
+Joseph Ramirez,natalie.lin@example.com,74287195584,West Richardview,Margherita,Extra Large,Thick Crust,Olives,BBQ,3,Gluten-Free,Rarely,Any day,Delivery,Others,Yes,Taste,No
+Jacqueline Sutton,brad.perez@example.com,94460181290,Morganland,BBQ Chicken,Small,Cheese-Stuffed Crust,Onions,Tomato,3,Gluten-Free,Occasionally,Weekends,Delivery,Local Pizzeria,No,Taste,Yes
+Sarah Fleming,joann.esparza@example.com,71039616994,Andreborough,Veggie Supreme,Extra Large,Cheese-Stuffed Crust,Onions,BBQ,1,None,Occasionally,Weekdays,Takeaway,Others,Yes,Taste,Yes
+David Fernandez,lisa.wang@example.com,99031511316,New Tammystad,Margherita,Small,Thick Crust,Mushrooms,Alfredo,2,None,Occasionally,Weekends,Takeaway,Pizza Hut,No,Delivery Speed,No
+Ashley Mccormick,deborah.gibson@example.com,97297152244,Crystalfurt,Margherita,Small,Thick Crust,Sausage,Alfredo,2,Gluten-Free,Rarely,Any day,Delivery,Others,No,Taste,No
+Nancy Armstrong,jared.bender@example.com,74880988116,Williamfurt,Margherita,Extra Large,Thick Crust,Pepperoni,Pesto,1,Gluten-Free,Occasionally,Weekdays,Dine-In,Domino's,Yes,Taste,Yes
+Todd Thompson,thomas.tran@example.com,81126138314,Daughertystad,Margherita,Large,Thick Crust,Sausage,Tomato,5,Lactose Intolerant,Once a month,Any day,Dine-In,Pizza Hut,Yes,Delivery Speed,No
+Cynthia Guerra,kristina.allen@example.com,71679936684,North John,BBQ Chicken,Medium,Thin Crust,Pineapple,BBQ,1,Lactose Intolerant,Rarely,Any day,Dine-In,Domino's,Yes,Offers/Discounts,Yes
+Steven Hernandez,david.wilson@example.com,94610227643,Howetown,Hawaiian,Extra Large,Gluten-Free Crust,Bacon,BBQ,5,None,Once a month,Weekdays,Takeaway,Pizza Hut,No,Price,Yes
+Carl Rose,richard.thomas@example.com,82265895784,Hancockchester,Veggie Supreme,Large,Thick Crust,Sausage,Tomato,1,Gluten-Free,Once a month,Any day,Delivery,Domino's,No,Delivery Speed,No
+Kristin Webb,timothy.cortez@example.com,84536036650,Catherineberg,Margherita,Large,Thick Crust,Sausage,BBQ,1,Vegan,Rarely,Any day,Takeaway,Others,No,Price,No
+Michael Sanchez,richard.scott@example.com,93972851832,Goodwinview,BBQ Chicken,Extra Large,Gluten-Free Crust,Bacon,Tomato,5,Gluten-Free,Once a month,Any day,Dine-In,Others,Yes,Taste,No
+Gabriel Clarke,melissa.roberts@example.com,78098845938,South Daniel,Hawaiian,Large,Gluten-Free Crust,Mushrooms,Pesto,1,None,Once a month,Weekdays,Dine-In,Others,Yes,Taste,Yes
+Kathleen Griffin,jessica.mcneil@example.com,97924140183,Jenniferberg,Veggie Supreme,Medium,Cheese-Stuffed Crust,Bacon,Tomato,2,Lactose Intolerant,Once a month,Weekends,Dine-In,Others,Yes,Taste,Yes
+Briana Washington,christopher.baker@example.com,76187888404,Port Bryanstad,Hawaiian,Large,Thin Crust,Pepperoni,Tomato,3,Vegan,Occasionally,Any day,Takeaway,Others,No,Taste,Yes
+Jose Gonzalez,lisa.lloyd@example.com,71376405766,East Christophermouth,BBQ Chicken,Extra Large,Gluten-Free Crust,Olives,Alfredo,2,Vegan,Rarely,Weekends,Dine-In,Others,No,Delivery Speed,Yes
+Kyle Evans,jennifer.gallagher@example.com,73167539268,Port Michaelside,BBQ Chicken,Small,Thin Crust,Pineapple,Pesto,1,Vegan,Once a month,Any day,Dine-In,Local Pizzeria,No,Taste,No
+Albert Alvarez,ashley.lewis@example.com,72611212391,New Kristin,Hawaiian,Extra Large,Thick Crust,Bacon,Tomato,1,Lactose Intolerant,Occasionally,Weekends,Takeaway,Others,No,Taste,Yes
+Brett Mckenzie,donald.english@example.com,84053027598,Michelleport,BBQ Chicken,Extra Large,Thick Crust,Pepperoni,BBQ,4,Gluten-Free,Occasionally,Weekdays,Takeaway,Pizza Hut,No,Taste,Yes
+Angie Pham,dr..tony@example.com,92932978161,Port Kevin,BBQ Chicken,Large,Gluten-Free Crust,Mushrooms,Alfredo,3,Gluten-Free,Occasionally,Any day,Delivery,Local Pizzeria,Yes,Price,No
+Michael Rubio,kathleen.anderson@example.com,74530596607,Amystad,Veggie Supreme,Medium,Thick Crust,Onions,Tomato,5,Vegan,Occasionally,Weekdays,Delivery,Pizza Hut,Yes,Variety of Toppings,Yes
+Susan Hernandez,amy.smith@example.com,89747081211,Campbellton,Hawaiian,Large,Gluten-Free Crust,Olives,BBQ,5,Gluten-Free,Rarely,Weekends,Delivery,Others,No,Delivery Speed,Yes
+Christopher Zavala,peggy.perez@example.com,75519285768,Jordanside,BBQ Chicken,Small,Gluten-Free Crust,Pepperoni,Tomato,3,Lactose Intolerant,Rarely,Any day,Delivery,Domino's,Yes,Price,Yes
+Ronald Adams,peter.little@example.com,77534176892,Wellshaven,Pepperoni,Small,Cheese-Stuffed Crust,Olives,BBQ,4,Gluten-Free,Occasionally,Any day,Dine-In,Others,No,Price,Yes
+Richard Roberson,michael.stewart@example.com,95432881063,Port Tristanmouth,BBQ Chicken,Large,Thin Crust,Pineapple,Alfredo,3,Lactose Intolerant,Once a week,Weekends,Dine-In,Others,Yes,Price,Yes
+Zachary Bush,daniel.brown@example.com,97384904164,West Jerryfort,Hawaiian,Medium,Thin Crust,Onions,Pesto,3,Lactose Intolerant,Occasionally,Weekdays,Dine-In,Others,No,Taste,No
+Mark Hall,eric.chavez@example.com,83246055570,Heatherhaven,Hawaiian,Large,Thick Crust,Pepperoni,Tomato,1,Lactose Intolerant,Rarely,Weekends,Delivery,Others,No,Taste,Yes
+Steven Smith,seth.robinson@example.com,95411218770,Reyesberg,Hawaiian,Small,Gluten-Free Crust,Pepperoni,Pesto,3,Vegan,Rarely,Any day,Takeaway,Pizza Hut,Yes,Taste,Yes
+Kenneth Gonzalez,donna.patel@example.com,79698793709,South Michael,Margherita,Extra Large,Thick Crust,Pepperoni,Tomato,1,Vegan,Once a week,Weekends,Takeaway,Pizza Hut,Yes,Price,No
+Ashley Carroll,joshua.phillips@example.com,81457611936,East Troyfort,Veggie Supreme,Medium,Cheese-Stuffed Crust,Sausage,BBQ,1,None,Rarely,Weekends,Dine-In,Pizza Hut,No,Variety of Toppings,No
+Mark Sanders,kathy.washington@example.com,96405327725,Royport,BBQ Chicken,Medium,Gluten-Free Crust,Onions,BBQ,3,Lactose Intolerant,Occasionally,Weekends,Takeaway,Pizza Hut,Yes,Price,No
+Matthew Thomas,ricardo.smith@example.com,84510351379,Port Lisa,BBQ Chicken,Small,Cheese-Stuffed Crust,Pepperoni,BBQ,4,Gluten-Free,Once a month,Any day,Delivery,Local Pizzeria,Yes,Taste,Yes
+Eileen Ward,nathaniel.stewart@example.com,75414770063,Brendachester,Veggie Supreme,Medium,Cheese-Stuffed Crust,Pepperoni,Tomato,1,Lactose Intolerant,Occasionally,Weekends,Dine-In,Local Pizzeria,Yes,Variety of Toppings,No
+David Graham,zoe.lopez@example.com,79639063660,Port Marc,Margherita,Small,Cheese-Stuffed Crust,Pineapple,Pesto,2,Lactose Intolerant,Once a month,Weekends,Delivery,Pizza Hut,Yes,Variety of Toppings,Yes
+Aaron Martin,jeffrey.jones@example.com,77879359170,Port Veronica,BBQ Chicken,Large,Cheese-Stuffed Crust,Bacon,Pesto,4,Lactose Intolerant,Occasionally,Any day,Dine-In,Domino's,Yes,Delivery Speed,No
+Dana Fitzgerald,john.colon@example.com,85686438490,Fisherview,BBQ Chicken,Small,Thick Crust,Pineapple,Tomato,4,Vegan,Occasionally,Weekends,Takeaway,Pizza Hut,No,Taste,No
+Glen Bright,tara.smith@example.com,73828140669,North Kevin,Pepperoni,Large,Thin Crust,Onions,Pesto,5,Gluten-Free,Rarely,Weekdays,Dine-In,Others,No,Price,No
+Kimberly Perez,diamond.lewis@example.com,87814162076,East Rebecca,BBQ Chicken,Small,Thick Crust,Bacon,BBQ,4,Vegan,Rarely,Any day,Dine-In,Local Pizzeria,Yes,Offers/Discounts,No
+Nichole Ford,miranda.ramos@example.com,71045212760,Morganburgh,BBQ Chicken,Large,Cheese-Stuffed Crust,Pineapple,Alfredo,3,None,Occasionally,Weekdays,Dine-In,Domino's,Yes,Variety of Toppings,Yes
+Angela Ford,judith.graves@example.com,72264987436,New Michelle,Veggie Supreme,Large,Thin Crust,Pineapple,BBQ,1,Vegan,Once a month,Weekdays,Dine-In,Pizza Hut,Yes,Variety of Toppings,No
+Annette Thomas,hannah.stanley@example.com,73585410170,East Steventown,Veggie Supreme,Large,Thin Crust,Pepperoni,Pesto,5,Vegan,Occasionally,Any day,Takeaway,Domino's,No,Offers/Discounts,Yes
+Michael Williams,kyle.wallace@example.com,87289419156,Elaineport,Margherita,Extra Large,Thin Crust,Olives,Pesto,1,None,Occasionally,Weekdays,Takeaway,Local Pizzeria,Yes,Offers/Discounts,No
+Mary Gordon,margaret.evans@example.com,96689292047,Alexanderfort,Hawaiian,Extra Large,Gluten-Free Crust,Sausage,Alfredo,4,Vegan,Once a week,Weekends,Takeaway,Local Pizzeria,No,Offers/Discounts,No
+David Jones,julia.hoffman@example.com,79354325689,Susantown,Veggie Supreme,Medium,Thin Crust,Pineapple,Tomato,2,Gluten-Free,Once a week,Weekends,Dine-In,Others,Yes,Offers/Discounts,No
+Lee Morrison,jorge.woodard@example.com,74316588934,Lake Kristenhaven,Veggie Supreme,Small,Cheese-Stuffed Crust,Mushrooms,Pesto,5,Gluten-Free,Once a month,Weekdays,Takeaway,Pizza Hut,No,Taste,No
+Justin Martin,deanna.bailey@example.com,74863889096,Port Danielleton,Margherita,Extra Large,Thick Crust,Bacon,Tomato,5,Vegan,Once a week,Any day,Takeaway,Local Pizzeria,No,Price,Yes
+Charles Williamson,dustin.miles@example.com,86386732877,Lake Riley,BBQ Chicken,Large,Cheese-Stuffed Crust,Sausage,Alfredo,2,Lactose Intolerant,Occasionally,Any day,Takeaway,Local Pizzeria,Yes,Offers/Discounts,No
+Amanda Villa,robert.norris@example.com,97218242906,West David,Margherita,Large,Thick Crust,Pepperoni,Pesto,1,Vegan,Rarely,Weekdays,Delivery,Others,No,Offers/Discounts,Yes
+Brandon Brown,samantha.castillo@example.com,83172870863,Port Lisaview,Pepperoni,Small,Thick Crust,Mushrooms,Tomato,1,None,Once a week,Weekends,Takeaway,Local Pizzeria,Yes,Offers/Discounts,Yes
+Caitlin Kelley,mary.caldwell@example.com,86319768122,Terryland,BBQ Chicken,Extra Large,Gluten-Free Crust,Onions,BBQ,2,Vegan,Rarely,Weekends,Takeaway,Domino's,No,Offers/Discounts,Yes
+Jennifer Stokes,jeff.allen@example.com,85062097133,South Ashley,Hawaiian,Small,Thin Crust,Sausage,BBQ,5,None,Once a week,Weekends,Takeaway,Local Pizzeria,No,Taste,Yes
+Jesse Miller,kathryn.mccarthy@example.com,71571061720,Lake Lisa,Pepperoni,Small,Cheese-Stuffed Crust,Onions,BBQ,3,None,Once a month,Weekdays,Delivery,Local Pizzeria,Yes,Price,Yes
+Timothy Patton,david.campbell@example.com,98594285596,East Robinside,Veggie Supreme,Large,Thick Crust,Mushrooms,Alfredo,4,Vegan,Occasionally,Weekdays,Dine-In,Pizza Hut,Yes,Variety of Toppings,No
+Katie Mitchell,ms..debra@example.com,97083435305,Marymouth,Veggie Supreme,Large,Thick Crust,Mushrooms,BBQ,5,None,Once a month,Any day,Delivery,Domino's,No,Taste,Yes
+Ryan Long,stephanie.smith@example.com,71197461111,West Jeremy,BBQ Chicken,Small,Gluten-Free Crust,Bacon,Tomato,5,Gluten-Free,Occasionally,Any day,Dine-In,Domino's,No,Price,No
+Robert Frost MD,amanda.simmons@example.com,77621905291,West Michael,Pepperoni,Extra Large,Gluten-Free Crust,Sausage,BBQ,5,Gluten-Free,Once a week,Weekends,Dine-In,Pizza Hut,Yes,Offers/Discounts,Yes
+Joseph Klein,brian.jackson@example.com,92637494368,Lake Robertshire,Hawaiian,Medium,Thin Crust,Pineapple,Tomato,2,Vegan,Rarely,Any day,Takeaway,Domino's,Yes,Offers/Discounts,No
+Brian Scott II,laurie.smith@example.com,75792339023,Browntown,Margherita,Small,Gluten-Free Crust,Olives,Pesto,1,Lactose Intolerant,Once a month,Weekdays,Dine-In,Domino's,No,Offers/Discounts,Yes
+Paul Morgan,erica.lewis@example.com,93252493910,Port Patrick,Hawaiian,Extra Large,Thin Crust,Sausage,Alfredo,4,Lactose Intolerant,Occasionally,Weekdays,Delivery,Pizza Hut,No,Taste,Yes
+Scott Williams,devin.tran@example.com,92845237234,Lake Teresa,Margherita,Small,Thin Crust,Pepperoni,BBQ,5,None,Once a month,Weekdays,Dine-In,Domino's,No,Price,Yes
+Michelle Sherman,patrick.cooper@example.com,78716797049,Knoxfort,Margherita,Extra Large,Gluten-Free Crust,Onions,Alfredo,4,None,Rarely,Any day,Takeaway,Domino's,No,Variety of Toppings,Yes
+Anthony Suarez,deborah.holland@example.com,71338827712,Walkerville,Margherita,Extra Large,Gluten-Free Crust,Bacon,BBQ,3,Lactose Intolerant,Once a month,Weekdays,Takeaway,Domino's,No,Variety of Toppings,Yes
+Melanie Delacruz,michele.gilbert@example.com,76165652869,Chavezmouth,Pepperoni,Small,Cheese-Stuffed Crust,Onions,Tomato,3,Lactose Intolerant,Rarely,Weekdays,Takeaway,Local Pizzeria,No,Delivery Speed,Yes
+Brian Smith,alexander.gentry@example.com,99804446308,North Ninamouth,Pepperoni,Large,Cheese-Stuffed Crust,Pepperoni,Alfredo,2,Lactose Intolerant,Once a week,Any day,Delivery,Others,Yes,Offers/Discounts,No
+Donna Brown,jeffrey.stout@example.com,72038259188,Mccartyview,Veggie Supreme,Medium,Cheese-Stuffed Crust,Bacon,Pesto,4,Gluten-Free,Once a month,Weekdays,Dine-In,Local Pizzeria,Yes,Taste,No
+Kristy Reynolds,susan.rios@example.com,94192207404,Bennettshire,Veggie Supreme,Large,Gluten-Free Crust,Onions,Tomato,4,Gluten-Free,Once a week,Weekends,Delivery,Domino's,Yes,Taste,Yes
+Sarah Hawkins,rhonda.johnston@example.com,77392575254,South Dawn,BBQ Chicken,Large,Thin Crust,Onions,Pesto,5,Lactose Intolerant,Occasionally,Weekends,Delivery,Local Pizzeria,No,Price,Yes
+Gregory Smith,mark.stokes@example.com,71645192571,Jeremyburgh,Veggie Supreme,Extra Large,Gluten-Free Crust,Olives,Tomato,4,Vegan,Once a month,Weekdays,Delivery,Local Pizzeria,No,Offers/Discounts,No
+Danielle White,deborah.archer@example.com,89474976940,Jamiechester,Pepperoni,Large,Thick Crust,Onions,BBQ,2,Vegan,Once a month,Weekdays,Dine-In,Others,No,Offers/Discounts,Yes
+Joshua Tucker,matthew.davies@example.com,76458707933,Webbtown,BBQ Chicken,Extra Large,Gluten-Free Crust,Sausage,BBQ,2,None,Occasionally,Weekdays,Dine-In,Others,No,Variety of Toppings,Yes
+David Lyons,samuel.johnson@example.com,97681018489,Smithberg,Pepperoni,Small,Thin Crust,Pepperoni,Alfredo,1,Gluten-Free,Once a month,Weekdays,Dine-In,Others,No,Delivery Speed,No
+Mr. Christopher White MD,roger.walker@example.com,82705770947,Stevenbury,Margherita,Extra Large,Cheese-Stuffed Crust,Olives,Alfredo,2,Gluten-Free,Once a week,Any day,Takeaway,Local Pizzeria,No,Delivery Speed,No
+Mario Morgan,billy.sanders@example.com,85971770888,Lake Kennethside,Pepperoni,Medium,Thick Crust,Pineapple,Pesto,4,Gluten-Free,Once a week,Weekends,Takeaway,Domino's,Yes,Offers/Discounts,Yes
+Andrea Dudley,larry.nash@example.com,89621881984,Lake Thomas,Pepperoni,Small,Thin Crust,Olives,BBQ,1,Vegan,Once a week,Weekends,Dine-In,Pizza Hut,Yes,Offers/Discounts,Yes
+Michael Mills,joyce.baker@example.com,73405115140,New Lisaborough,Margherita,Large,Thick Crust,Pepperoni,Pesto,5,Gluten-Free,Rarely,Weekends,Delivery,Others,No,Price,Yes
+Daniel Perez,rachel.parsons@example.com,77324470891,South Josephport,BBQ Chicken,Small,Thick Crust,Mushrooms,Pesto,4,Vegan,Once a week,Weekends,Takeaway,Pizza Hut,Yes,Variety of Toppings,Yes
+Mark Harmon,stephanie.weiss@example.com,77696343290,Samanthafort,Pepperoni,Large,Thick Crust,Olives,Alfredo,4,Vegan,Occasionally,Any day,Dine-In,Domino's,Yes,Taste,Yes
+Bethany Hamilton,peter.leblanc@example.com,98915968440,North Ryanside,Margherita,Small,Thick Crust,Bacon,BBQ,3,Lactose Intolerant,Once a week,Weekends,Takeaway,Local Pizzeria,No,Offers/Discounts,Yes
+Rhonda Walton,lisa.clark@example.com,88738228574,Lake Lisaberg,Hawaiian,Medium,Thin Crust,Bacon,BBQ,2,Vegan,Once a month,Weekdays,Dine-In,Domino's,Yes,Taste,No
+Jonathan Mendoza,alexander.hunter@example.com,75860250282,West Michael,Veggie Supreme,Medium,Gluten-Free Crust,Sausage,Pesto,1,Gluten-Free,Once a month,Weekdays,Delivery,Others,No,Price,Yes
+Colin Watkins,andrew.rodriguez@example.com,97154745278,West Lori,Margherita,Medium,Cheese-Stuffed Crust,Onions,Tomato,1,Gluten-Free,Rarely,Weekdays,Delivery,Domino's,Yes,Delivery Speed,No
+Julie Flores,janice.giles@example.com,95648987440,Alexisshire,Pepperoni,Large,Thick Crust,Bacon,BBQ,3,Gluten-Free,Once a month,Weekdays,Delivery,Domino's,No,Price,Yes
+Shannon Mcgee,michele.owens@example.com,76588163774,Port Danielleport,Margherita,Medium,Thin Crust,Onions,Tomato,1,Vegan,Rarely,Weekends,Delivery,Pizza Hut,Yes,Taste,No
+Nathaniel Hernandez,ashley.oliver@example.com,73110560811,Port Victoriaburgh,Pepperoni,Medium,Thick Crust,Bacon,Pesto,3,Gluten-Free,Occasionally,Weekends,Takeaway,Others,Yes,Delivery Speed,No
+Susan Trevino,brandy.martinez@example.com,96694236921,Johntown,Hawaiian,Extra Large,Cheese-Stuffed Crust,Olives,BBQ,1,Gluten-Free,Rarely,Any day,Delivery,Local Pizzeria,No,Offers/Discounts,No
+Amber Holmes,rhonda.smith@example.com,98046308190,Jenniferberg,Hawaiian,Large,Thin Crust,Olives,Tomato,2,Gluten-Free,Once a week,Weekends,Delivery,Local Pizzeria,Yes,Delivery Speed,Yes
+Jenny Hoffman,claudia.hayes@example.com,87427394892,South Courtney,BBQ Chicken,Extra Large,Thin Crust,Pepperoni,BBQ,5,Gluten-Free,Rarely,Any day,Delivery,Domino's,No,Delivery Speed,No
+Larry Cooper,alexandra.mason@example.com,91826574795,Dayshire,BBQ Chicken,Large,Thin Crust,Pineapple,BBQ,3,Lactose Intolerant,Once a month,Weekdays,Delivery,Others,No,Offers/Discounts,Yes
